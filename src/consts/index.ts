@@ -1,0 +1,18 @@
+// Width and heights
+export const HEADER_HEIGHT = 60;
+export const FOOTER_HEIGHT = 36;
+
+// For thing like setTimeout
+export const SECOND_IN_MS = 10000;
+
+// Font sizes
+export const TEXT_SIZE_1 = 14;
+export const TEXT_SIZE_2 = 16;
+export const TEXT_SIZE_3 = 20;
+
+// Z-indexes for correct composing pages
+export const Z_INDEX_LEVEL_1 = 1;
+export const Z_INDEX_LEVEL_2 = 10;
+export const Z_INDEX_LEVEL_3 = 100;
+export const Z_INDEX_LEVEL_4 = 1000;
+export const Z_INDEX_LEVEL_5 = 10000;
